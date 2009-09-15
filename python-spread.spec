@@ -1,7 +1,7 @@
 Summary:	Python wrapper for Spread client libraries
 Name:		python-spread
 Version:	1.5
-Release:	%mkrel 2
+Release:	%mkrel 3
 Group:		Development/Python
 License:	BSD-style
 URL:		http://www.zope.org/Members/tim_one/spread/
