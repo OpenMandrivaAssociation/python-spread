@@ -4,7 +4,7 @@ Version:	1.5
 Release:	5
 Group:		Development/Python
 License:	BSD-style
-URL:		http://www.zope.org/Members/tim_one/spread/
+URL:		https://www.zope.org/Members/tim_one/spread/
 Source0:	http://www.zope.org/Members/tim_one/spread/SpreadModule-%{version}/SpreadModule-%{version}.tgz
 Patch0:		SpreadModule-1.5-fix-for-spread4.patch
 Requires:	spread >= 4.0.0
